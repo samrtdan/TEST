@@ -10,6 +10,8 @@ using namespace std;
 
 int main()
 {
+        aaaaaaaaaaaaaaaa;
+
 	std::cout<<"Hello, world!"<<std::endl;
 	return 0;
 }
